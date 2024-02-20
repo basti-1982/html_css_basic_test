@@ -1,0 +1,25 @@
+/* What a mess! */
+
+.important {
+    color: red;
+    font-size: 100px;
+}
+
+#hilight {
+    color: blue;
+    font-size: 100px;
+}
+
+.quotes, .important{
+    color: blue;
+}
+
+#title{
+    color: blue;
+}
+header{
+    background-color: yellow;
+}
+main{
+    background-color: beige;
+}
