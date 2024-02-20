@@ -1,0 +1,17 @@
+body{
+    background-color: beige;
+}
+
+
+.ueberschrift{
+    color: blue;
+}
+
+.my-list-element{
+    font-weight: bold;
+}
+
+#special-heading{
+    font-size: 40px;
+    color: red;
+}
