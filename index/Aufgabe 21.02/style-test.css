@@ -1,0 +1,13 @@
+/*  färbe nur den main und (enkel) kinder ein in blau*/
+
+main div{
+    color: blue;
+}
+
+a {
+    color: rgba(60, 60, 168, 0.699)violet;
+}
+
+a :hover :active {
+color: red;
+}
