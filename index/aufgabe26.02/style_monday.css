@@ -1,0 +1,28 @@
+main {
+    background-color: violet;
+    height: 100vh;
+}
+
+footer {
+    background-color: #37393d;
+    height: 400px;
+}
+
+h1, h2, h3 {
+    color: rgb(71, 74, 74);
+}
+
+p {
+    min-height: 50px;
+    width: 100%;
+    background-color: rgba(71, 74, 74, 0.596);
+}
+
+a {
+    color: white;
+}
+
+a:hover{
+    font-weight: bold;
+}
+
