@@ -1,0 +1,42 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+
+div {
+    display: block;
+}
+
+.box1 {
+    height: 300px;
+    width: 300px;
+    background: blue;
+    padding: 50px;
+    margin: 20px;
+    border: 1px solid black ;
+}
+/* .box2 {
+    height: 300px;
+    width: 300px;
+    background: rgb(65, 45, 49);
+    padding: 50px;
+    margin: 20px;
+    border: 1px solid black ;
+}
+.box3 {
+    height: 300px;
+    width: 300px;
+    background: rgb(41, 2, 8);
+    padding: 50px;
+    margin: 20px;
+    border: 1px solid black ;
+} */
+.spn {
+    /* margin: 20px; */
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    background: darkgray;
+}

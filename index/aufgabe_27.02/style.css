@@ -1,0 +1,23 @@
+.regel {
+    color: red;
+}
+
+#regeln {
+    color: aqua;
+}
+
+/* h1 {
+    color: blueviolet !important ;
+} */
+
+p {
+    color: blue;
+}
+
+main p {
+    color: darkgoldenrod;
+}
+
+.highlight {
+    color: hotpink;
+}
