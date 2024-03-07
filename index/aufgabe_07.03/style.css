@@ -1,0 +1,50 @@
+@font-face {
+    font-family: pacifico;
+    src: url("/aufgabe_07.03/pacifico/pacifico-regular.ttf");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: roboto;
+    src: url(/aufgabe_07.03/pacifico/Roboto-Black.ttf);
+    font-style: italic;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.a {
+    text-align: center;
+    background-color: aqua;
+}
+
+.b {
+    text-align: left;
+}
+
+.c {
+    text-align: right;
+}
+
+.d {
+    text-align: justify;
+}
+
+h1, h2 {
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+p {
+    font-family: roboto;
+}
+
+h1 {
+    text-shadow: 5px 10px 4px #FFC0CB;
+}
+body {
+    font-family: pacifico, sans-serif;
+}
